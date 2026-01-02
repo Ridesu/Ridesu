@@ -1,16 +1,39 @@
 ## Hi there 👋
 
-<!--
-**Ridesu/Ridesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Junior Python / Cybersecurity enthusiast  
+💻 Interested in backend development, APIs, and threat intelligence automation  
+🔐 Focused on practical cybersecurity and system integration
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🐍 Python developer with experience in **Django** and **Django REST Framework**
+- 🔐 Interested in **cybersecurity**, threat intelligence, and SOC-related topics
+- ⚙️ Worked with **MISP API**, Docker-based deployments, and automation scripts
+- 🌐 Solid understanding of **networking fundamentals** (TCP/IP, HTTP, DNS, VLAN, NAT)
+- 📊 Prefer clean, structured code and well-documented projects
+- 🚀 Always learning and improving practical skills
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-4444444?style=for-the-badge&logo=django&logoColor=white)
+
+**Cybersecurity & DevOps**
+- MISP (API, automation)![Uploading python-logo-only.svg…]()
+
+- Docker / Docker Compose
+- Linux (Ubuntu, Kali Linux)
+- Git / GitHub
+
+**Networking**
+- TCP/IP, HTTP, DNS
+- VLAN, NAT, routing basics
+- Packet analysis fundamentals
+
